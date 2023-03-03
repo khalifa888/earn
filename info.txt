@@ -1,0 +1,2 @@
+I developed this chip (software), by implementating an algorithmic precision guess work based on unreliable data, provided by those of questionable knowledge.
+
