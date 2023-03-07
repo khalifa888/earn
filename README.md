@@ -1,1 +1,1 @@
-# ImpossibleDAO
+# Earn
